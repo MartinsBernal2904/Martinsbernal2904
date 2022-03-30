@@ -2,14 +2,16 @@
 ###  Me gusta  jugar ultimate
 ### Me gustan los videojuegos 
 ### Me encanta escuchar musica 
-![image](https://user-images.githubusercontent.com/102542896/160882924-c3a7e63b-d0d1-4f3e-a6fd-e63fa757f06d.png)
+![image](https://user-images.githubusercontent.com/102542896/160882924-c3a7e63b-d0d1-4f3e-a6fd-e63fa757f06d.png) ![image](https://user-images.githubusercontent.com/102542896/160883301-08d2dee1-52e3-4d8b-b078-367cec00edcc.png)
+![image](https://user-images.githubusercontent.com/102542896/160883592-a3a4c9b3-5536-4a6d-b954-4f6d59b3fb66.png)![image](https://user-images.githubusercontent.com/102542896/160883808-7bba6bf0-740d-4c13-b470-6d8823756b18.png)
+![image](https://user-images.githubusercontent.com/102542896/160883927-6f50188b-13d7-4b80-a43f-ab4102dd21c7.png)
 
 
 <!--
 
-**MartinsBernal2904/Martinsbernal2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MartinsBernal2904/Martinsbernal2904** es un repositorio ✨ _special_ ✨ porque su `README.md` (este archivo) aparece en su perfil de GitHub.
 
-Here are some ideas to get you started:
+Aquí hay algunas ideas para comenzar:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
