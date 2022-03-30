@@ -1,5 +1,10 @@
-### Hi there 👋
-###  Me gusta  jugar ultimate 
+### Hola mi nombre es Martin
+###  Me gusta  jugar ultimate
+### Me gustan los videojuegos 
+### Me encanta escuchar musica 
+![image](https://user-images.githubusercontent.com/102542896/160882924-c3a7e63b-d0d1-4f3e-a6fd-e63fa757f06d.png)
+
+
 <!--
 
 **MartinsBernal2904/Martinsbernal2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
